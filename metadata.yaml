@@ -1,0 +1,30 @@
+_repo: The-Romance-of-Natural-History-Second-Series_32800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gosse, Philip Henry
+    alias: Gosse, P. H. (Philip Henry)
+    birthdate: 1810
+    deathdate: 1888
+    gutenberg_agent_id: '36052'
+    url: http://www.gutenberg.org/2009/agents/36052
+description: ''
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcc 'QH'
+tableOfContents: The extinct -- The marvellous -- Mermaids -- The self-immured --
+  Hybernation of swallows -- The crested and wattled snake -- The doubtful -- Fascination
+  -- Serpent-charming -- Beauty -- Parasites -- Appendix.
+title: The Romance of Natural History, Second Series
+url: http://www.gutenberg.org/ebooks/32800
