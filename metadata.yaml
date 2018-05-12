@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36052'
     url: http://www.gutenberg.org/2009/agents/36052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32800#The-Romance-of-Natural-History-Second-Series
 gutenberg_issued: '2010-06-13'
 gutenberg_type: Text
 identifiers:
